@@ -1,8 +1,8 @@
 ################# API Call Pre-Execution Prep ################
 # Set variables
-API_URL=https://kneschiwp001.kiewitplaza.com/reportingapi/
+API_URL=https://satellite.domain.com/reportingapi/
 API_USER=automation.reporting
-API_PASS=5ee5omethIng5ay5omethIng
+API_PASS=secret
 ORIGIN=`hostname`
 TARGET=$ORIGIN
 PNAME=`basename $0`
